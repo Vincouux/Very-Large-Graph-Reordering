@@ -1,4 +1,4 @@
-# Verry Large Graph - SCIA 2020
+# Very Large Graph - SCIA 2020
 
 The purpose of this project is to highlight the difference in temporal complexity of Louvain algorithm between an unordered and reordered graph. We will try different approaches to reorder the graph.
 
